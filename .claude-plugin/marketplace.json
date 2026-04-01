@@ -1,0 +1,23 @@
+{
+  "name": "banyan-marketplace",
+  "owner": {
+    "name": "James Ramsay",
+    "email": "james@banyaneducation.org"
+  },
+  "metadata": {
+    "description": "Skills, workflows, and productivity tools",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "meeting-notes",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/banyan-fund/skill-meeting-notes.git"
+      },
+      "description": "Opinionated meetings notes",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
