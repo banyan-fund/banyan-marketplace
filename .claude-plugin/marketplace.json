@@ -6,17 +6,14 @@
   },
   "metadata": {
     "description": "Skills, workflows, and productivity tools",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "meeting-notes",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/banyan-fund/skill-meeting-notes.git"
-      },
+      "source": "./plugins/meeting-notes",
       "description": "Opinionated meetings notes",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "meeting-notes",
+  "version": "1.0.1",
+  "description": "Opinionated meetings notes",
+  "author": {
+    "name": "James Ramsay",
+    "url": "https://github.com/jamesramsay"
+  },
+  "homepage": "https://github.com/banyan-fund/skill-meeting-notes",
+  "repository": "https://github.com/banyan-fund/skill-meeting-notes",
+  "license": "Proprietary",
+  "keywords": ["meeting", "transcript", "notes", "action-items", "recording"]
+}
