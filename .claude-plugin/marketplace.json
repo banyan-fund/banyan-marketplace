@@ -11,7 +11,10 @@
   "plugins": [
     {
       "name": "meeting-notes",
-      "source": "https://github.com/banyan-fund/skill-meeting-notes.git",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/banyan-fund/skill-meeting-notes.git"
+      },
       "description": "Opinionated meetings notes",
       "version": "1.0.0"
     }
